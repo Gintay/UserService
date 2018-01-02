@@ -43,8 +43,8 @@ public class UserDto {
     public static User fromDto(UserDto userDto){
         User user = new User();
         user.setId(userDto.getId());
-        user.setUsername(userDto.getUsername());
         user.setPassword(userDto.getPassword());
+        user.setUsername(userDto.getUsername());
         user.setEmail(userDto.getEmail());
         return user;
     }
