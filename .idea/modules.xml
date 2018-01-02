@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UsersService.iml" filepath="$PROJECT_DIR$/.idea/modules/UsersService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UsersService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/UsersService_main.iml" group="UsersService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UsersService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/UsersService_test.iml" group="UsersService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src/integration/integration.iml" filepath="$PROJECT_DIR$/.idea/modules/src/integration/integration.iml" group="src/integration" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src/src.iml" filepath="$PROJECT_DIR$/.idea/modules/src/src.iml" group="src" />
+    </modules>
+  </component>
+</project>

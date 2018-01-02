@@ -1,0 +1,4 @@
+rootProject.name = 'UsersService'
+include 'src:integration'
+findProject(':src:integration')?.name = 'integration'
+
