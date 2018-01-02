@@ -27,7 +27,8 @@ public class UsersServiceImpl implements UsersService {
 
     public UserDto getUser(Integer id){
         User user = userDAO.get(id);
-        return UserDto.toDto(user);
+        UserDto userDto = UserDto.toDto(user);
+        return userDto;
     }
 
     public UserDto saveUser(UserDto userDto){
